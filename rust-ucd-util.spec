@@ -5,8 +5,8 @@
 %global crate ucd-util
 
 Name:           rust-%{crate}
-Version:        0.1.7
-Release:        2%{?dist}
+Version:        0.2.2
+Release:        1%{?dist}
 Summary:        Small utility library for working with the Unicode character database
 
 # Upstream license specification: MIT/Apache-2.0
